@@ -2,7 +2,7 @@
 
 namespace OpenAgendaSdk;
 
-use Dallgoot\Yaml;
+use Dallgoot\Yaml\Yaml;
 
 /**
  * Class Config
