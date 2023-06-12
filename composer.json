@@ -1,5 +1,5 @@
 {
-  "name": "Tony3585/sdk-php",
+  "name": "openagenda/sdk-php",
   "type": "library",
   "description": "PHP Wrapper for the OpenAgenda API",
   "keywords": [
